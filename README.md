@@ -1,11 +1,14 @@
 ⚠️ Disclaimer:  
 This material is for educational purposes only and does not constitute financial, investment, or tax advice. Always do your own research and due diligence before making any financial decisions. Consult with a licensed financial advisor or tax professional if you need guidance specific to your situation.
 
-# 📈 Swing Trading Starter Guide
+## 🗺️ How to Navigate this Guide
 
-A professional roadmap tailored to experienced professionals ready to expand beyond their 401(k) into informed swing trading and investing.
+- Start with financial basics, progress sequentially.
+- Regularly engage with provided resources.
+- Continuously update your knowledge and adapt your strategy.
 
----
+**This guide serves as your roadmap to confidently managing investments beyond traditional retirement accounts.**
+
 
 ## 🔨 Build a Solid Financial Foundation
 
@@ -20,7 +23,7 @@ Before you swing trade, get the basics right:
 
 ---
 
-## 🧱 Core Investing: ETFs
+## 📈 Core Investing: ETFs
 
 Start simple with diversified ETFs to minimize risk:
 
@@ -199,11 +202,3 @@ Diversify your portfolio income:
 Explore further: [HIPS Holdings](https://stockanalysis.com/etf/hips/holdings/)
 
 ---
-
-## 🗺️ How to Navigate this Guide
-
-- Start with financial basics, progress sequentially.
-- Regularly engage with provided resources.
-- Continuously update your knowledge and adapt your strategy.
-
-**This guide serves as your roadmap to confidently managing investments beyond traditional retirement accounts.**

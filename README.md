@@ -144,12 +144,16 @@ You don’t need to trade bonds to understand why rates affect the market and po
 ## 📰 Step 4: Stay Informed
 
 **Recommended Newsletters:**
-
-- [Investopedia](https://www.investopedia.com/investopedia-newsletter-opt-in-7095821)
-- [Morning Brew](https://www.morningbrew.com/daily/subscribe)
-- [Chartr](https://sherwood.news/subscribe/)
-- [Visual Capitalist](https://www.visualcapitalist.com/subscribe)
-- [Quiver Quantitative](https://quiverquant.beehiiv.com/)
+- [Investopedia](https://www.investopedia.com/investopedia-newsletter-opt-in-7095821) <br/>
+- [Morning Brew](https://www.morningbrew.com/daily/subscribe) <br/>
+- [Capitol Trades (top right to subscribe)](https://www.capitoltrades.com/) <br/>
+- [Chartr +](https://sherwood.news/subscribe/) <br/>
+- [Visual Capitalist](https://www.visualcapitalist.com/subscribe) <br/>
+- [Map Signals (scroll and you'll be prompted to enter your e-mail address)](https://mapsignals.com/map-blog/) <br/>
+- [EarningWhisper](https://www.reddit.com/r/EarningsWhisper/) <br/>
+- [Granite Shares](https://graniteshares.substack.com/) <br/>
+- [Quiver Quantitative](https://quiverquant.beehiiv.com/) <br/>
+- [Stockcharts](https://stockcharts.com/newsletter/) <br/>
 
 **Economic Calendars:**
 

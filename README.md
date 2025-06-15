@@ -119,13 +119,13 @@ Understanding these basics will make you a smarter investor.
 
 | Term | What It Means |
 |------|----------------|
-| **Short-Term Capital Gains** | Profits from investments held under 1 year — taxed as regular income |
-| **Long-Term Capital Gains** | Profits on investments held over 1 year — taxed at a lower rate |
+| **Short-Term Capital Gains** | Profits from investments held under 1 year - taxed as regular income |
+| **Long-Term Capital Gains** | Profits on investments held over 1 year - taxed at a lower rate (0%, 15%, 20%) |
 | **Qualified Dividends** | May qualify for lower long-term capital gains tax rate |
 | **Capital Losses** | Can offset capital gains or up to $3,000 in regular income annually |
 | **Tax-Loss Harvesting** | Selling losers to reduce your tax bill while staying invested | 
 
-Knowing the difference in holding periods isn't just about strategy — it affects your tax bill directly.
+Knowing the difference in holding periods isn't just about strategy - it affects your tax bill directly.
 
 ---
 
@@ -133,9 +133,9 @@ Knowing the difference in holding periods isn't just about strategy — it affec
 
 | Topic | Explanation |
 |-------|-------------|
-| **Bonds** | Essentially IOUs issued by companies or governments — often used for income or stability |
+| **Bonds** | Essentially IOUs issued by companies or governments - often used for income or stability |
 | **Rates & Prices** | When interest rates rise, bond prices usually fall (and vice versa) |
-| **Why It Matters** | Stocks, especially tech and growth, are affected by interest rates too — rising rates can pull prices down |
+| **Why It Matters** | Stocks, especially tech and growth, are affected by interest rates too - rising rates can pull prices down |
 
 You don’t need to trade bonds to understand why rates affect the market and portfolio balance.
 

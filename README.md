@@ -73,6 +73,13 @@ Understanding these basics will make you a smarter investor.
 | **Diversification** | Spread money across different assets | Reduces the impact of a single bad pick |
 | **Dollar-Cost Averaging** | Investing a set amount on a schedule | Helps avoid market timing and smooths volatility |
 | **Rebalancing** | Resetting your portfolio back to target allocations | Maintains your intended risk level over time |
+| **60/40 Tax Treatment** | A special tax rule under IRS Section 1256 where 60% of gains are taxed as long-term and 40% as short-term, regardless of holding period | Even short-term trades can get a lower blended tax rate, potentially saving money for active traders |
+| **Section 1256 Contracts** | Includes certain futures, index options, and ETFs that hold these instruments (e.g., VXX, UVXY, PDBC) | Gains/losses are automatically marked-to-market each year and taxed using the 60/40 split |
+| **Blended Tax Rate** | Combines long-term (max 20%) and short-term (ordinary income, up to 37%) tax rates | Reduces your overall tax burden compared to normal short-term trading, which is fully taxed as income |
+| **Mark-to-Market** | End-of-year valuation where gains/losses are taxed whether or not the asset was sold | You may owe taxes on unrealized gains at year-end — plan cash flow accordingly |
+| **K-1 Form** | A tax document some of these ETFs issue instead of a standard 1099 | K-1s are more complex and can delay tax filing, but they come with the benefit of more favorable tax treatment |
+| **SEC 10-K Filing** | An annual report that public companies must file with the SEC, detailing financial performance, risks, and operations | It's one of the most detailed sources of information about a company's business and financial health |
+| **SEC 8-K Filing** | A report companies file to announce major events (e.g., earnings releases, leadership changes, mergers) | Gives timely insight into news that may significantly affect a company’s stock price |
 
 ---
 
@@ -126,18 +133,6 @@ Understanding these basics will make you a smarter investor.
 | **Tax-Loss Harvesting** | Selling losers to reduce your tax bill while staying invested | 
 
 Knowing the difference in holding periods isn't just about strategy - it affects your tax bill directly.
-
----
-
-### 🧱 Bonds & Interest Rates 101
-
-| Topic | Explanation |
-|-------|-------------|
-| **Bonds** | Essentially IOUs issued by companies or governments - often used for income or stability |
-| **Rates & Prices** | When interest rates rise, bond prices usually fall (and vice versa) |
-| **Why It Matters** | Stocks, especially tech and growth, are affected by interest rates too - rising rates can pull prices down |
-
-You don’t need to trade bonds to understand why rates affect the market and portfolio balance.
 
 ---
 
